@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>rc_pganalytics</name>
+    <displayName><![CDATA[Premium Google Analytics Enhanced Ecommerce]]></displayName>
+    <version><![CDATA[4.5.1]]></version>
+    <description><![CDATA[Enable Google Enhanced Ecommerce Analytics, and knows in detail how users interact in your online Store]]></description>
+    <author><![CDATA[ReactionCode]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

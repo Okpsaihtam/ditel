@@ -1,0 +1,30 @@
+.visibility-wrapper, .ssl-wrapper, .target_group-wrapper {display:none;}
+.custom_code {
+	height: 160px !important;
+}
+.add_custom_block {
+    background-color: #2eacce !important;
+    font-size: 18px !important;
+    color: #fff !important;
+    padding: 7px 20px !important;
+    border: none !important;
+}
+img.custom_img {
+	width: 30px;
+	height: 30px;
+	margin-right: 30px;
+}
+.add_custom_block:hover {
+	background-color: #008abd !important;
+}
+#content.bootstrap .custom-blocks-content .panel.bg_parent {
+	background-color: #dde6dc !important;
+}
+#content.bootstrap .custom-blocks-content > div > div{
+	padding:10px;
+}
+#content.bootstrap #hook_name {
+	width: 75% !important;
+}
+.javascript_code_snippet {display:none;}
+.js_code {height:150px !important;}

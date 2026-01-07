@@ -1,0 +1,4 @@
+[2025-07-11 16:54:19] DEBUG - ChainedTasks - Step BackupInitialization
+[2025-07-11 16:54:20] INFO - BackupInitialization - Starting backup...
+[2025-07-11 16:54:20] DEBUG - ChainedTasks - Step BackupFiles
+[2025-07-11 16:54:50] CRITICAL - ErrorHandler - /var/www/vhosts/ekypia.dev/ditel.ekypia.dev/modules/autoupgrade/classes/UpgradeTools/FilesystemAdapter.php line 101 - Maximum execution time of 30 seconds exceeded

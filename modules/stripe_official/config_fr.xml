@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>stripe_official</name>
+    <displayName><![CDATA[Module de paiement Stripe]]></displayName>
+    <version><![CDATA[2.0.8]]></version>
+    <description><![CDATA[Commencez &agrave; accepter des paiements Stripe d&egrave;s aujourd&#039;hui, directement &agrave; partir de votre boutique !]]></description>
+    <author><![CDATA[202 ecommerce]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Voulez-vous vraiment désinstaller le module ?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

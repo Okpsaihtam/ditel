@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ptm_multiblocks</name>
+    <displayName><![CDATA[Mutli blocs HTML JS personnalis&eacute;s]]></displayName>
+    <version><![CDATA[1.7.0]]></version>
+    <description><![CDATA[Personnalisez les codes HTML/JS et CSS dans de nombreux hhok de la boutique]]></description>
+    <author><![CDATA[Presta Theme Maker]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
